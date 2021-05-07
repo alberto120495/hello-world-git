@@ -10,4 +10,7 @@
 
 ###### Cabecera H6
 
-Soy un readme.
+- letra _italica_ forma.
+- formato **bold o strong**
+- formato ~~tachado~~, formato normal
+- aqui podemos usar _italico_ pero tambien **bold** y ~~tachado~~
